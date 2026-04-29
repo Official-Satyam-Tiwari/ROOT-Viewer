@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 # Run the application
 echo "Starting ROOT Viewer..."
-python3 root_viewer/plot_gui.py
+python3 plot_gui.py
