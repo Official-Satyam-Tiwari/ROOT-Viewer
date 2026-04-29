@@ -1,0 +1,7 @@
+customtkinter
+uproot
+awkward
+numpy
+matplotlib
+pillow
+fastparquet
