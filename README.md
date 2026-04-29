@@ -2,6 +2,7 @@
 A sleek, high-performance tool for rapid visualization of ROOT files. Built for physicists who value speed, simplicity, and precision.
 
 <img width="2558" height="1386" alt="image" src="https://github.com/user-attachments/assets/f2a76e43-7b82-4f3b-b697-06d3da487afc" />
+
 ## Specialties
 ### 1. Minimalistic Design
 - **Clean UI**: Built with a refined light theme using `customtkinter`.
