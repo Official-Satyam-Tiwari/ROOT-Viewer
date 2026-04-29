@@ -21,7 +21,7 @@ A sleek, high-performance tool for rapid visualization of ROOT files. Built for 
 - **Lean Bundle**: Packaged into a standalone executable with zero external dependencies required on the host machine.
 - **Matplotlib Integration**: Uses the robust `TkAgg` backend for professional-grade plotting.
 ---
-## 🛠️ Key Functions
+## Key Functions
 - **1D Histograms**: With optional error bars and normalization.
 - **2D Histograms**: Featuring dynamic colormaps and interactive colorbars.
 - **Scatter Plots**: Customizable marker styles and sizes for correlation analysis.
