@@ -29,3 +29,5 @@ A sleek, high-performance tool for rapid visualization of ROOT files. Built for 
 - **Interactive Tools**: Built-in Matplotlib toolbar for zooming, panning, and saving plots.
 ---
 *Developed by Satyam Tiwari*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19886724.svg)](https://doi.org/10.5281/zenodo.19886724)
